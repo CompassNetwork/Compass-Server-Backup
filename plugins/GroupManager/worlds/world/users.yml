@@ -1,0 +1,6 @@
+users:
+  Sergeant_Dave:
+    group: Owner
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

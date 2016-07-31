@@ -1,0 +1,20 @@
+# Thanks for using my plugin. In this file, you can configure several settings (Generally, when you are editing one of the messages, colorcodes [the & sign] will work) #
+Settings:
+  prefix: '&6[&bAdminEssentials&6] '
+  adminAddMessage: '&dYou are now in ADMIN mode'
+  adminRemoveMessage: '&aYou are now in PLAY mode'
+  clearchat-message: '&bChat has been cleared by &a%PLAYER%'
+  your-chat-has-been-cleared: '&bYour chat has been cleared by &a%PLAYER%'
+  mutechat-message: '&bChat has been &cmuted&b by &a%PLAYER%'
+  unMutechat-message: '&bChat has been &aunmuted&b by &a%PLAYER%'
+  chat-is-muted: '&cSorry, chat is currently muted!'
+  adminOnDutyPrefixEnabled: true
+  adminOnDutyPrefix: '&9[&4On Duty&9]&c '
+  no-permission-message: '&cI am sorry, but you do not have permission to perform
+    this command. Please contact the server administrators if you believe that this
+    is an error.'
+  fake-join-message: '&e%PLAYER% has returned.'
+  fake-leave-message: '&e%PLAYER% has left us.'
+  slowchat-message: '&bChat has been &cslowed&b by &a%PLAYER%'
+  unSlowchat-message: '&bChat has been set back to normal speed by &a%PLAYER%'
+  chat-is-slowed: '&cYou can chat again in &c%TIME% seconds'

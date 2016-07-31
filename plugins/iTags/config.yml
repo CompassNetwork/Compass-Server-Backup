@@ -1,0 +1,54 @@
+#
+#	iTags Configuration File
+#	=====================================
+#
+#	Plugin by jacklink01
+# 	Like this plugin? Donate! http://voidteam.net/donate :)
+#
+#	Need a new config file? Just delete this one and a new one will be created.
+#
+
+
+# Enable or disable the two main features of the plugin. Tags in chat or tags on signs
+enableChatTags: true
+enableSignTags: true
+enableHashTags: true
+
+# The symbol that the plugin will catch as being a tag
+playerTag: '@'
+
+# Choose the color of the tags in chat
+# You may use minecraft color codes! &a, &b, &c, &d, etc...
+playerTagColor: '&e'
+hashTagColor: '&b'
+linkColor: '&7'
+chatColor: '&f'
+
+# Use the in-game color of the person's name instead of the above player tag color. (Also hide the tag symbol)
+useDisplayNameColors: false
+
+# Choose the sound which will be heard by the tagged player. You can see a list of sounds at the bottom of this config.
+chatSound: BLOCK_NOTE_PLING
+signSound: BLOCK_NOTE_BASS_GUITAR
+
+# What type of notification should the tagged player receive for being tagged in a sign?
+# 'full' will show the entire message that was put on the sign.
+# 'mini' will just let the tagged player know who tagged them.
+# 'none' will not send a message to the tagged player, but will still play a sound.
+signNotifyType: mini
+
+# The plugin will do it's best to prevent bad words from going into /trending by not accepting bad words as hashtags.
+censorHashTags: true
+
+# BONUS!
+# Very useful! Replace ./command with /command for a cleaner way of telling people how to use commands.
+# Also, a nice link underliner
+enableDotSlashCleaner: true
+enableLinkUnderliner: true
+
+# Keep up to date! This plugin can notify you about updates and let you install them from in-game!
+update-notification: true
+
+
+# Don't touch this unless you wanna lose your config. :)
+config-version: 4

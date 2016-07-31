@@ -1,0 +1,8 @@
+# Vote4Item Configuration
+#
+# Broadcast Message
+broadcast=Thanks &b{username}&r for voting on &9{serviceName}!
+#
+# Vote Rewards
+# ItemID:Damage=Amount[EnchantID;EnchantID,Level]{name=Custom &cName;lore=Line 1|&4Line 2}
+388=4

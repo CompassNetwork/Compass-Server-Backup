@@ -1,0 +1,11 @@
+##############################
+#                            #
+#           ShowIP           #
+#     Made By: JoshlistMC    #
+#                            #
+##############################
+
+#Change none to the server ip, Example " ip: example.com "
+#Note: If The IP Didnt Changed When You Did /reload Please Stop The Server Then Edit The Config Then Start It Thanks.
+
+ip: "This Server's IP is: compass.servegame.com"

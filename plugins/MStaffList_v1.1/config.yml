@@ -1,0 +1,22 @@
+###############################
+######    MStafflist     ######
+######  Author: Megadix  ######
+######  Version: v1.1    ######
+######  Cod.Colors: "&"  ######
+###############################
+#Permission: mstaff.staff
+#Edit your StaffList, Usage code & for colors
+#Example List
+Line1: ""
+Line2: ""
+Line3: "&9&m----------------------------"
+Line4: "         &c&l[M&2Staff&3List&c&l]"
+Line5: "           &4[Owner]&fSergeant_Dave"
+Line6: "           &c[Admin]&fAdmin_Colton"
+Line7: "           &c[Admin]&fLOOKING FOR ADMIN'S"
+Line8: "           &2[Moderator]&fAlpha_Beta"
+Line9: "           &2[Moderator]&fMega_Mod"
+Line10: " "
+Line11: "&9&m----------------------------"
+Line12: ""
+Line13: ""

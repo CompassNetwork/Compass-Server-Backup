@@ -1,0 +1,36 @@
+lastAccountName: Sergeant_Dave
+timestamps:
+  login: 1469869831086
+  logout: 1469869831079
+  lastteleport: 1469846928416
+  kits:
+    color: 1469477333573
+    notch: 1469477320072
+    dtools: 1469479934701
+    tools: 1469477261726
+ipAddress: 172.10.101.241
+lastlocation:
+  world: world
+  x: 21.5
+  y: 64.0
+  z: -68.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world_factions
+  x: 496.0653897571453
+  y: 73.0
+  z: -96.10876096805717
+  yaw: 86.59479
+  pitch: 47.02829
+afk: true
+money: '10000000000000'
+homes:
+  spawn:
+    world: world_factions
+    x: 500.51134449483993
+    y: 74.0
+    z: -98.21991275923011
+    yaw: 1.9938135
+    pitch: 19.905828
+godmode: false

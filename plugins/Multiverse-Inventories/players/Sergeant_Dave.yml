@@ -1,0 +1,3 @@
+playerData:
+  lastWorld: world_factions
+  shouldLoad: false

@@ -1,0 +1,36 @@
+spawns: 
+  default: 
+    world: world_factions
+    x: 500.5
+    y: 74.0
+    z: -98.5
+    yaw: 179.766
+    pitch: 0.27593088
+  all: 
+    world: world_factions
+    x: 500.5
+    y: 74.0
+    z: -98.5
+    yaw: 180.06488
+    pitch: -1.3338436
+  "500 75 -99": 
+    world: world_factions
+    x: 500.5
+    y: 75.6252878090076
+    z: -98.5
+    yaw: -180.1026
+    pitch: -1.0212859
+  "all 500 75 -99": 
+    world: world_factions
+    x: 500.5
+    y: 75.6252878090076
+    z: -98.5
+    yaw: -179.96474
+    pitch: 65.34751
+  "500 75 -99 all": 
+    world: world_factions
+    x: 500.5
+    y: 75.6252878090076
+    z: -98.5
+    yaw: -178.2629
+    pitch: 65.57746

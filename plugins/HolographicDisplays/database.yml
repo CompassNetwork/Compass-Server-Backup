@@ -1,0 +1,118 @@
+enchantments:
+  location: world_shop, -3.691, 10.182, 5.154
+  lines:
+  - '[x] Enchantments [x]'
+spawnmessage1:
+  location: world_shop, -2.221, 11.321, 0.485
+  lines:
+  - -[Spawn-Portal]-
+enchantments2:
+  location: world_shop, -3.983, 10.595, -4.142
+  lines:
+  - '[x] Enchantments [x]'
+toolsarmor:
+  location: world_shop, 0.379, 10.200, -8.428
+  lines:
+  - '[x] Tools [x]'
+  - '&'
+  - '[x] Armor [x]'
+leaderboard1:
+  location: world_shop, 4.355, 12.200, 0.552
+  lines:
+  - '&k[|:] &r &b Leaderboard &k'
+north:
+  location: world_factions, 500.500, 76.000, -110.500
+  lines:
+  - '[x]&b&l||North||&r[x]'
+east:
+  location: world_factions, 512.500, 76.000, -98.500
+  lines:
+  - '[x]&b&l||East||&r[x]'
+west:
+  location: world_factions, 488.500, 76.000, -98.500
+  lines:
+  - '[x]&b&l||West||&r[x]'
+south:
+  location: world_factions, 500.500, 76.000, -86.500
+  lines:
+  - '[x]&b&l||South||&r[x]'
+pvpwarn2:
+  location: world_factions, 500.500, 73.000, -26.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn1:
+  location: world_factions, 491.500, 73.200, -26.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn3:
+  location: world_factions, 509.500, 73.000, -26.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn4:
+  location: world_factions, 509.500, 73.000, -170.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn5:
+  location: world_factions, 500.500, 73.000, -170.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn6:
+  location: world_factions, 491.500, 73.000, -170.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn7:
+  location: world_factions, 428.500, 73.000, -107.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn8:
+  location: world_factions, 428.500, 73.000, -98.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn9:
+  location: world_factions, 428.500, 73.000, -89.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn10:
+  location: world_factions, 572.500, 73.000, -89.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn11:
+  location: world_factions, 572.500, 73.000, -98.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+pvpwarn12:
+  location: world_factions, 572.500, 73.000, -107.500
+  lines:
+  - '&u Warning: &r&l&bPVP: &rEnabled'
+blockmessage:
+  location: world_factions, 500.500, 76.000, -102.500
+  lines:
+  - '&uGo 250 Blocks Out to Build!'
+spawnmessage2:
+  location: world_factions, 537.500, 73.000, -70.500
+  lines:
+  - '&u [.] Enchanting Area [.]'
+spawnmessage3:
+  location: world_factions, 525.500, 73.000, -59.500
+  lines:
+  - '&u [.] Enchanting Area [.]'
+firepit:
+  location: world_factions, 467.992, 74.200, -72.033
+  lines:
+  - '&u [.] Item Disposal [.]'
+foodfarm1:
+  location: world_factions, 467.500, 73.000, -122.500
+  lines:
+  - '&u [.] Food Farm [.]'
+foodfarm2:
+  location: world_factions, 476.500, 73.000, -131.500
+  lines:
+  - '&u [.] Food Farm [.]'
+votemessage:
+  location: world_factions, 525.500, 74.238, -98.500
+  lines:
+  - '&u [.] Be Sure to Vote using: /vote Everyday! [.]'
+shopmessage1:
+  location: world_factions, 500.500, 76.000, -94.500
+  lines:
+  - '&u&l [.] Visit the shop using: /warp shop [.]'

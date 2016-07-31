@@ -1,0 +1,50 @@
+# Default Config for WildTP
+
+# Enable only if you are using Factions
+factions: true
+# Enable which zones are safe for teleporting in
+wilderness: true
+safezone: true
+warzone: true
+
+# World to teleport in
+enabled: true
+teleport-world: world_factions
+# or worlds you can use the command in
+command-worlds:
+  #- world
+  #- world_nether
+
+# What you want the sign to say for them to teleport
+# Colors don't matter and only the first line will be matched
+sign-text: '[Wild]'
+
+# How long they wait before they are teleported ( seconds )
+# Set to 0 for no delay
+teleport-delay: 3
+
+# How long they have to wait before using the command again ( seconds )
+teleport-cooldown: 30
+
+# Enable this to make it so people don't teleport in water
+no-teleport-in-water: true
+
+# Minimum to Maximum Cords for tp
+minimum-x: -10000
+minimum-z: -10000
+maximum-x: 10000
+maximum-z: 10000
+
+# How %cords% is going to look in the teleport message
+cords-format: '&3X: &9%x%, &3Y: &9%y%, &3Z: &9%z%'
+
+# How you want WildTP to send messages
+# Use %blocksaway% for teleported-message to tell how many blocks away they teleported
+# %cords% to say where they tped and %timeleft% for the time left in cooldown
+disabled-world: '&bWild&aTP &7>> &5The world you are in does not allow that command.'
+teleporting: '&bWild&aTP &7>> &9Teleporting to random location. Please wait &e3 &9seconds.'
+teleported-message: '&bWild&aTP &aYou were teleported to %cords%, &6%blocksaway% &ablocks away in &6%world%!'
+teleport-canceled: '&bWild&aTP &7>> &9Teleporting canceled because you moved.'
+no-permission-message: '&bWild&aTP &4You do not have permission for that!'
+player-in-cooldown: '&bWild&aTP &7>> &bYou are currently in cooldown for %timeleft%!'
+reload-message: '&bWild&aTP &7>> &7Reload complete!'
